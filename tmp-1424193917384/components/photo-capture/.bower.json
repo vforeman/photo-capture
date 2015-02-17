@@ -1,0 +1,26 @@
+{
+  "name": "photo-capture",
+  "keywords": [
+    "seed",
+    "polymer",
+    "web-components"
+  ],
+  "main": "photo-capture.html",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5.1"
+  },
+  "devDependencies": {
+    "web-component-tester": "Polymer/web-component-tester#^2.0.0"
+  },
+  "homepage": "https://github.com/vforeman/photo-capture",
+  "_release": "926106ce42",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "926106ce42aae9a5035859a95e65c8ef9c1737b8"
+  },
+  "_source": "git://github.com/vforeman/photo-capture.git",
+  "_target": "master",
+  "_originalSource": "vforeman/photo-capture",
+  "_direct": true
+}
